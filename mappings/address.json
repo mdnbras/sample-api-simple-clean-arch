@@ -1,0 +1,17 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/addresses/38400000"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "content-type": "application/json"
+    },
+    "jsonBody": {
+      "street": "123 Main St",
+      "city": "San Francisco",
+      "state": "CA"
+    }
+  }
+}

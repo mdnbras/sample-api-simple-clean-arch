@@ -1,0 +1,17 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/addresses/38400001"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "content-type": "application/json"
+    },
+    "jsonBody": {
+      "street": "Aveninda Maracana",
+      "city": "Belem",
+      "state": "PA"
+    }
+  }
+}
